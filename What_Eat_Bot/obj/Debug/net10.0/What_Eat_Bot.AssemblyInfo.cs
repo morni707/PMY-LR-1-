@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("What_Eat_Bot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+208f66d2e4ee607cf0ab69f9ce6f4f6cb571a459")]
 [assembly: System.Reflection.AssemblyProductAttribute("What_Eat_Bot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("What_Eat_Bot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
